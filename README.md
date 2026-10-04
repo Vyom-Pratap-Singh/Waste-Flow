@@ -2,7 +2,9 @@
 A Waste Management System Full Stack Website.
 
 Live Deployment url:https://test.hexafx.online/
+
 Pickup Partner Panel:https://test.hexafx.online/partner-login.html
+
 Admin Panel:https://test.hexafx.online/admin-login.html 
 
 # ♻️ Waste Management System
